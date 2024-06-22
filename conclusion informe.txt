@@ -1,0 +1,1 @@
+En base al informe de cobertura se puede concluir que la covertura en main.py fue  del 92% y en test_main.py fue del 100%
